@@ -13,7 +13,7 @@
 
 ## 🚀 Features
 
-* **🗣️ Voice Interaction:** Tap the "Reactor Orb" to speak. The AI listens, processes, and responds verbally.
+* **🗣️ Voice Interaction:** Tap the "Reactor Mic" to speak. The AI listens, processes, and responds verbally.
 * **🧠 Advanced Intelligence:** Powered by **Llama-3-8b-instant** via Groq for instant, context-aware responses.
 * **⚡ Smart Actions:**
     * *"Open Google"* -> Opens Google in a new tab.
